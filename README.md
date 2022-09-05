@@ -1,6 +1,6 @@
 # RSA Factoring Challenge
 
-## 0. Factorize all the things!#advanced
+## 0. Factorize all the things!
 Factorize as many numbers as possible into a product of two smaller numbers.
 
 -   Usage: `factors <file>`
@@ -20,12 +20,12 @@ Factorize as many numbers as possible into a product of two smaller numbers.
     -   we will only run your executable `factors`
     
 ## 1. RSA Factoring Challenge#advanced
-RSA Laboratories states that: for each RSA numbern, there exist prime numberspandqsuch that
+RSA Laboratories states that: for each RSA number `n`, there exist prime numbers `p` and `q` such that
 
-n=p×q. The problem is to find these two primes, given onlyn.
+`n` = `p` × `q`. The problem is to find these two primes, given only `n`.
 
 This task is the same as task 0, except:
-- pandqare always prime numbers
+- `p` and `q` are always prime numbers
 - There is only one number in the files
 
 ### How far can you go in less than 5 seconds?
